@@ -10,7 +10,7 @@ Only an Open Source, collaborative software development approach can ensure the 
 Hyperledger has the following goals:
 * Create enterprise grade, open source, distributed ledger frameworks and code bases to support business transactions
 
-* Provide neutral, open, and community-driven infrastructure supported by technical and business governance
+* Provide neutral, open, and community-driven infrastructure supported by technical and busineses governance.
 
 * Build technical communities to develop blockchain and shared ledger POCs, use cases, field trails and deployments
 
